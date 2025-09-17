@@ -8,7 +8,7 @@ O grafo é pré-definido no código e contém nós de **"A" a "R"** com suas res
 ## Grafo  
 Abaixo está a representação visual do grafo utilizado no projeto:  
 
-![Grafo](./assets/grafo.png)  
+![Grafo](./Grafo.png)  
 
 ## Como Funciona  
 - O BFS explora o grafo **camada por camada**, partindo de um nó de origem.  
